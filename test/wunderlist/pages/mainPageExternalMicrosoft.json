@@ -1,0 +1,22 @@
+{
+    "LoginField": {
+        "type": "css",
+        "selector": ".form-control"
+    },
+    "NextLoginButton": {
+        "type": "css",
+        "selector": ".btn.btn-block.btn-primary"
+    },
+    "NextPasswordButton": {
+        "type": "css",
+        "selector": ".btn.btn-block.btn-primary"
+    },
+    "PasswordField": {
+        "type": "css",
+        "selector": ".form-control"
+    },
+    "AcceptAgreementButton": {
+        "type": "css",
+        "selector": "#idBtn_Accept"
+    }
+}

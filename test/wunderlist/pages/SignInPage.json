@@ -1,0 +1,7 @@
+{
+    "ExternalAuthButtons": {
+        "type": "css",
+        "selector": ".buttons-external>span>a",
+        "isCollection": true
+    }
+}

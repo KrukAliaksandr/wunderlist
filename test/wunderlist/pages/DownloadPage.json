@@ -1,0 +1,15 @@
+{
+    "DownloadWunderOnAllDevicesTitle": {
+        "type": "css",
+        "selector": ".wunderlist-website>.half-top>.center:first-child"
+    },
+    "SignInButton": {
+        "type": "css",
+        "selector": ".wunderlist-button.blank"
+    },
+    "HeaderAvailableLinks": {
+        "type": "css",
+        "selector": ".wunderlist-menu-links>li:not(.wunderlist-more-links)",
+        "isCollection": true
+    }
+}

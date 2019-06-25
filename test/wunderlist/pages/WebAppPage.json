@@ -1,0 +1,51 @@
+{
+    "CreateListButton": {
+        "type": "css",
+        "selector": "[rel='placeholder_create_list']"
+    },
+    "ListNameField": {
+        "type": "css",
+        "selector": "input.big.listOptions-title"
+    },
+    "SaveListButton": {
+        "type": "css",
+        "selector": ".submit.full.blue"
+    },
+    "InboxButton": {
+        "type": "css",
+        "selector": ".filters-collection>li[rel=inbox]"
+    },
+    "TasksCheckboxes": {
+        "type": "css",
+        "selector": ".tasks:nth-child(1)>li .taskItem-checkboxWrapper.checkBox",
+        "isCollection": true
+    },
+    "TasksText": {
+        "type": "css",
+        "selector": ".tasks:nth-child(1)>li  .taskItem-titleWrapper-title",
+        "isCollection": true
+    },
+    "CompletedTasksText": {
+        "type": "css",
+        "selector": ".tasks:last-of-type>li .taskItem-titleWrapper-title",
+        "isCollection": true
+    },
+    "CompletedTasksCheckboxes": {
+        "type": "css",
+        "selector": ".tasks:last-of-type>li .taskItem-checkboxWrapper.checkBox",
+        "isCollection": true
+    },
+    "CompletedTasksButton": {
+        "type": "css",
+        "selector": ".groupHeader.completed-items-heading"
+    },
+    "UserActionsMenuArrow": {
+        "type": "css",
+        "selector": ".user-arrow"
+    },
+    "UserActionsAvailableList": {
+        "type": "css",
+        "selector": ".list-menu>li>a",
+        "isCollection": true
+    }
+}

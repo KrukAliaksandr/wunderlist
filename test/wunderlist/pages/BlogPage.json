@@ -1,0 +1,16 @@
+{
+    "ArticlesTitles": {
+        "type": "css",
+        "selector": ".wrapper.half-top>article>h2>a>strong",
+        "isCollection": true
+    },
+    "SignInButton": {
+        "type": "css",
+        "selector": ".wunderlist-button.blank"
+    },
+    "HeaderAvailableLinks": {
+        "type": "css",
+        "selector": ".wunderlist-menu-links>li:not(.wunderlist-more-links)",
+        "isCollection": true
+    }
+}

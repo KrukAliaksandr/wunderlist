@@ -1,0 +1,6 @@
+{
+    "SignInButton": {
+        "type": "css",
+        "selector": ".wunderlist-button.blank"
+    }
+}

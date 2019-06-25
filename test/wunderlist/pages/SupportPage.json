@@ -1,0 +1,15 @@
+{
+    "SearchField": {
+        "type": "css",
+        "selector": ".input.form-control.ui-autocomplete-input"
+    },
+    "SearchButton": {
+        "type": "css",
+        "selector": ".support-search-big .fa.fa-search"
+    },
+    "SearchResultItemHeaders": {
+        "type": "css",
+        "selector": ".body.row.nomarg>article>div>h3>a>span",
+        "isCollection": true
+    }
+}

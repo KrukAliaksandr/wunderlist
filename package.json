@@ -1,0 +1,31 @@
+{
+  "name": "wunderlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "protractor ./test/wunderlist/config/config.js",
+    "e2e:update": "node ./node_modules/protractor/bin/webdriver-manager update --gecko=false",
+    "e2e:start-server": "start cmd /k \"node_modules\\.bin\\webdriver-manager start\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrukAliaksandr/wunderlist.git"
+  },
+  "author": "Aliaksandr_Kruk@epam.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrukAliaksandr/wunderlist/issues"
+  },
+  "homepage": "https://github.com/KrukAliaksandr/wunderlist#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "cucumber": "^5.1.0",
+    "eslint": "^6.0.0",
+    "fs-extra": "^8.0.1",
+    "protractor": "^5.4.2",
+    "protractor-cucumber-framework": "^6.1.2",
+    "winston": "^3.2.1",
+    "yargs": "^13.2.4"
+  }
+}

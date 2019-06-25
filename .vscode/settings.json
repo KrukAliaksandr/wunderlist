@@ -1,0 +1,7 @@
+{
+    "cucumberautocomplete.steps": [
+        "test/wunderlist/steps/*.js"
+    ],
+    "cucumberautocomplete.syncfeatures": "test/wunderlist/features/*feature",
+    "cucumberautocomplete.strictGherkinCompletion": true
+}
